@@ -1,6 +1,16 @@
 # RoboMaster 机械
 
-## 1.步兵 Infantry
+
+## 0.步兵图纸 META 战队
+- META-Infantry-2022
+  - 步兵-2022-发射装置-原始枪口-step
+  - 步兵-2022-发射装置-反转枪口-step
+  - 步兵-2022-发射装置-正反枪口-f3z.zip
+  - 步兵-2022-完整云台-带螺丝-f3z.zip (001-006)
+  - 步兵-2022-完整云台-无螺丝-f3z.zip (001-006)  
+    <img src = "Picture/Original.png" width = "70%">
+    <img src = "Picture/Reverse.png" width = "70%" >
+## 1.步兵收集 Infantry
 
 ### 1.1 平衡步兵
 - [2023 上海交通 平衡步兵 中供弹 CAD](https://bbs.robomaster.com/forum.php?mod=viewthread&tid=22803)
